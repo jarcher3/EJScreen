@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <pubdate>20100101</pubdate>
+                <title>Maryland Census Designated Areas - Urban Areas 2010</title>
+                <onlink>https://geodata.md.gov/imap/rest/services/Demographics/MD_CensusDesignatedAreas/FeatureServer/0</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>After each decennial census, the Census Bureau delineates urban areas that represent densely developed territory, encompassing residential, commercial, and other nonresidential urban land uses. In general, this territory consists of areas of high population density and urban land use resulting in a representation of the &amp;quot;urban footprint.&amp;quot; There are two types of urban areas: urbanized areas (UAs) that contain 50,000 or more people and urban clusters (UCs) that contain at least 2,500 people, but fewer than 50,000 people (except in the U.S. Virgin Islands and Guam which each contain urban clusters with populations greater than 50,000). Each urban area is identified by a 5-character numeric census code that may contain leading zeroes.This is a MD iMAP hosted service. Find more information at https://imap.maryland.gov.Feature Service Link:https://geodata.md.gov/imap/rest/services/Demographics/MD_CensusDesignatedAreas/FeatureServer/0</abstract>
+            <purpose>Maryland Census Designated Areas - Urban Areas 2010</purpose>
+        </descript>
+        <status>
+            <update>None planned</update>
+        </status>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>MDP</themekey>
+                <themekey>Census Designated Places</themekey>
+                <themekey>Maryland Department of Planning</themekey>
+                <themekey>2010</themekey>
+                <themekey>Maryland</themekey>
+                <themekey>MD</themekey>
+                <themekey>Census Urban Areas</themekey>
+                <themekey>WFS</themekey>
+                <themekey>WMS</themekey>
+                <themekey>MD iMAP</themekey>
+                <themekey>KML</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>The Spatial Data, and the information therein, (collectively the "Data") is provided "as is" without warranty of any kind, either expressed, implied, or statutory. The user assumes the entire risk as to quality and performance of the Data. No guarantee of accuracy is granted, nor is any responsibility for reliance thereon assumed. In no event shall the State of Maryland be liable for direct, indirect, incidental, consequential or special damages of any kind. The State of Maryland does not accept liability for any damages or misrepresentation caused by inaccuracies in the Data or as a result to changes to the Data, nor is there responsibility assumed to maintain the Data in any manner or form. The Data can be freely distributed as long as the metadata entry is not modified or deleted. Any data derived from the Data must acknowledge the State of Maryland in the metadata.</useconst>
+        <datacred>MD iMAP, MDP, U.S. Census</datacred>
+    </idinfo>
+    <metainfo>
+        <metd>20171222</metd>
+        <metc>
+            <cntinfo>
+                <!--no contact person or organization name available-->
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
