@@ -1,1 +1,1 @@
-# EJScreen
+# EJ Screen Mapper Data
